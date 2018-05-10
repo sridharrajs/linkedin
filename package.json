@@ -11,11 +11,11 @@
 		}
 	],
 	"repository": {
-		"type" : "git",
-		"url" : "git://github.com/haraldrudell/linkedin.git"
+		"type": "git",
+		"url": "git://github.com/haraldrudell/linkedin.git"
 	},
 	"dependencies": {
 		"oauth": ">= 0.7.0"
 	},
-	"main" : "./lib/linkedin"
+	"main": "./lib/linkedin"
 }

@@ -1,10 +1,25 @@
-Install to your machine
-get modules:
-npm install
+## LinkedIn
 
-Run the example: node example/example.js
+ The absolute easies way to enable node.js for LinkedIn rest api.
+ 
+## Requirements
 
-your browser launhes at the LinkedIn app authentication page
+* `Nodejs v8.9.4`
+
+## Installation guide
+
+1. Install all the required dependencies
+
+
+    npm install
+
+2. Run the example
+
+ 
+    node example/example.js
+
+
+your browser launches at the LinkedIn app authentication page
 click OK
 
-Information retrieved using LinkedIN's api is displayed
+Information retrieved using [LinkedIN's api](https://developer.linkedin.com/docs/rest-api) is displayed
